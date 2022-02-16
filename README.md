@@ -1,2 +1,2 @@
 # LobabKidsCenter
-Static Website for Lobar Kids Centre
+Static Website for Lobab Kids Centre
